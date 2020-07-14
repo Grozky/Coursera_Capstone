@@ -1,0 +1,104 @@
+,PostalCode,Borough,Neighborhood,Latitude,Longitude
+0,M3A,North York,Parkwoods,43.75188064575195,-79.33036041259766
+1,M4A,North York,Victoria Village,43.73041915893555,-79.31282043457031
+2,M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6551399230957,-79.3626480102539
+3,M6A,North York,"Lawrence Manor, Lawrence Heights",43.723209381103516,-79.45140838623047
+4,M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.66448974609375,-79.39302062988281
+5,M9A,Etobicoke,"Islington Avenue, Humber Valley Village",43.66276931762695,-79.52831268310547
+6,M1B,Scarborough,"Malvern, Rouge",43.81153106689453,-79.19551849365234
+7,M3B,North York,Don Mills,43.749290466308594,-79.36168670654297
+8,M4B,East York,"Parkview Hill, Woodbine Gardens",43.70793914794922,-79.31159973144531
+9,M5B,Downtown Toronto,"Garden District, Ryerson",43.6573600769043,-79.37818145751953
+10,M6B,North York,Glencairn,43.70798873901367,-79.44837951660156
+11,M9B,Etobicoke,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65279006958008,-79.55406188964844
+12,M1C,Scarborough,"Rouge Hill, Port Union, Highland Creek",43.785640716552734,-79.15870666503906
+13,M3C,North York,Don Mills,43.721839904785156,-79.34339904785156
+14,M4C,East York,Woodbine Heights,43.689701080322266,-79.30680084228516
+15,M5C,Downtown Toronto,St. James Town,43.65142822265625,-79.37557220458984
+16,M6C,York,Humewood-Cedarvale,43.692108154296875,-79.43035888671875
+17,M9C,Etobicoke,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.64889907836914,-79.5782470703125
+18,M1E,Scarborough,"Guildwood, Morningside, West Hill",43.765750885009766,-79.17520141601562
+19,M4E,East Toronto,The Beaches,43.67702865600586,-79.29541778564453
+20,M5E,Downtown Toronto,Berczy Park,43.64530944824219,-79.3736801147461
+21,M6E,York,Caledonia-Fairbanks,43.68783950805664,-79.4504623413086
+22,M1G,Scarborough,Woburn,43.7681999206543,-79.21761322021484
+23,M4G,East York,Leaside,43.70909118652344,-79.36409759521484
+24,M5G,Downtown Toronto,Central Bay Street,43.656089782714844,-79.38493347167969
+25,M6G,Downtown Toronto,Christie,43.66878128051758,-79.42070770263672
+26,M1H,Scarborough,Cedarbrae,43.769691467285156,-79.23944091796875
+27,M2H,North York,Hillcrest Village,43.80284881591797,-79.35620880126953
+28,M3H,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.74808883666992,-79.44400787353516
+29,M4H,East York,Thorncliffe Park,43.701271057128906,-79.34980010986328
+30,M5H,Downtown Toronto,"Richmond, Adelaide, King",43.64970016479492,-79.38258361816406
+31,M6H,West Toronto,"Dufferin, Dovercourt Village",43.66508865356445,-79.43871307373047
+32,M1J,Scarborough,Scarborough Village,43.74309158325195,-79.23526000976562
+33,M2J,North York,"Fairview, Henry Farm, Oriole",43.78097152709961,-79.34780883789062
+34,M3J,North York,"Northwood Park, York University",43.764671325683594,-79.4871826171875
+35,M4J,East York,"East Toronto, Broadview North (Old East York)",43.6881103515625,-79.33418273925781
+36,M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.64284896850586,-79.38040161132812
+37,M6J,West Toronto,"Little Portugal, Trinity",43.64873123168945,-79.41783905029297
+38,M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park",43.72861099243164,-79.263671875
+39,M2K,North York,Bayview Village,43.78102111816406,-79.38059997558594
+40,M3K,North York,Downsview,43.73902893066406,-79.46732330322266
+41,M4K,East Toronto,"The Danforth West, Riverdale",43.68375015258789,-79.35527801513672
+42,M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.647098541259766,-79.38153076171875
+43,M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.639408111572266,-79.4267578125
+44,M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",43.71406173706055,-79.28411865234375
+45,M2L,North York,"York Mills, Silver Hills",43.75722122192383,-79.3797378540039
+46,M3L,North York,Downsview,43.74106979370117,-79.51080322265625
+47,M4L,East Toronto,"India Bazaar, The Beaches West",43.66796875,-79.31468200683594
+48,M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.648231506347656,-79.37889862060547
+49,M6L,North York,"North Park, Maple Leaf Park, Upwood Park",43.713809967041016,-79.48831176757812
+50,M9L,North York,Humber Summit,43.75947952270508,-79.5572509765625
+51,M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.72359848022461,-79.2349624633789
+52,M2M,North York,"Willowdale, Newtonbrook",43.791351318359375,-79.41355895996094
+53,M3M,North York,Downsview,43.733551025390625,-79.4968032836914
+54,M4M,East Toronto,Studio District,43.660911560058594,-79.33502960205078
+55,M5M,North York,"Bedford Park, Lawrence Manor East",43.73545837402344,-79.41915130615234
+56,M6M,York,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.694679260253906,-79.48346710205078
+57,M9M,North York,"Humberlea, Emery",43.73366928100586,-79.53687286376953
+58,M1N,Scarborough,"Birch Cliff, Cliffside West",43.69538879394531,-79.2619400024414
+59,M2N,North York,"Willowdale, Willowdale East",43.76713943481445,-79.40706634521484
+60,M3N,North York,Downsview,43.75666046142578,-79.51972198486328
+61,M4N,Central Toronto,Lawrence Park,43.728981018066406,-79.39173126220703
+62,M5N,Central Toronto,Roselawn,43.71194076538086,-79.41912078857422
+63,M6N,York,"Runnymede, The Junction North",43.67618179321289,-79.4825210571289
+64,M9N,York,Weston,43.70357131958008,-79.51644897460938
+65,M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.759979248046875,-79.26837158203125
+66,M2P,North York,York Mills West,43.74787139892578,-79.4002914428711
+67,M4P,Central Toronto,Davisville North,43.71276092529297,-79.38851165771484
+68,M5P,Central Toronto,"Forest Hill North & West, Forest Hill Road Park",43.69478988647461,-79.41439819335938
+69,M6P,West Toronto,"High Park, The Junction South",43.65993881225586,-79.46302032470703
+70,M9P,Etobicoke,Westmount,43.696231842041016,-79.52925872802734
+71,M1R,Scarborough,"Wexford, Maryvale",43.750709533691406,-79.3005599975586
+72,M2R,North York,"Willowdale, Willowdale West",43.779911041259766,-79.44677734375
+73,M4R,Central Toronto,"North Toronto West,  Lawrence Park",43.71451950073242,-79.4069595336914
+74,M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.67483901977539,-79.40184783935547
+75,M6R,West Toronto,"Parkdale, Roncesvalles",43.647850036621094,-79.45020294189453
+76,M7R,Mississauga,Canada Post Gateway Processing Centre,43.64868927001953,-79.38543701171875
+77,M9R,Etobicoke,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.68674087524414,-79.55728912353516
+78,M1S,Scarborough,Agincourt,43.793941497802734,-79.2671127319336
+79,M4S,Central Toronto,Davisville,43.703399658203125,-79.3859634399414
+80,M5S,Downtown Toronto,"University of Toronto, Harbord",43.663108825683594,-79.40180206298828
+81,M6S,West Toronto,"Runnymede, Swansea",43.65034103393555,-79.4757080078125
+82,M1T,Scarborough,"Clarks Corners, Tam O'Shanter, Sullivan",43.78472900390625,-79.29936981201172
+83,M4T,Central Toronto,"Moore Park, Summerhill East",43.69065856933594,-79.38356018066406
+84,M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.65351104736328,-79.397216796875
+85,M1V,Scarborough,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.81781005859375,-79.28024291992188
+86,M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.685691833496094,-79.4023208618164
+87,M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64081954956055,-79.3995590209961
+88,M8V,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",43.60987091064453,-79.49693298339844
+89,M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.744529724121094,-79.58624267578125
+90,M1W,Scarborough,"Steeles West, L'Amoreaux West",43.80052185058594,-79.32073974609375
+91,M4W,Downtown Toronto,Rosedale,43.68190002441406,-79.37850189208984
+92,M5W,Downtown Toronto,Stn A PO Boxes,43.64868927001953,-79.38543701171875
+93,M8W,Etobicoke,"Alderwood, Long Branch",43.60108184814453,-79.53890991210938
+94,M9W,Etobicoke,"Northwest, West Humber - Clairville",43.71173858642578,-79.57917785644531
+95,M1X,Scarborough,Upper Rouge,43.83422088623047,-79.2166976928711
+96,M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.66788101196289,-79.36649322509766
+97,M5X,Downtown Toronto,"First Canadian Place, Underground city",43.64828109741211,-79.38146209716797
+98,M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",43.653690338134766,-79.51112365722656
+99,M4Y,Downtown Toronto,Church and Wellesley,43.66659164428711,-79.38130187988281
+100,M7Y,East Toronto,"Business reply mail Processing Centre, South Central Letter Processing Plant Toronto",43.64868927001953,-79.38543701171875
+101,M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.63288116455078,-79.48954772949219
+102,M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.624629974365234,-79.52835083007812
